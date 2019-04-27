@@ -1,0 +1,3 @@
+关于烟花效果的全部详细介绍，可以参见我的博客地址中粒子系统基础：
+
+https://blog.csdn.net/weixin_44307764/article/details/88968975
